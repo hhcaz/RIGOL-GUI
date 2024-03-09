@@ -23,7 +23,7 @@
   或者你已经安装好了Python，并且希望通过脚本方式运行，那么需要以下依赖，可通过pip安装: 
   
   ```
-pip install numpy pyvisa-py PyQt5==5.15.9 pyqtgraph==0.12.3
+  pip install numpy pyvisa-py PyQt5==5.15.9 pyqtgraph==0.12.3
   ```
 
   安装好后，克隆本仓库，输入 `python start_gui.py`启动界面。
