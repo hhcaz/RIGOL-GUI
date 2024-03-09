@@ -8,7 +8,7 @@
 
 ## 安装
 
-* (**前置条件**) 首先安装驱动，可从官网下载[Ultra Sigma (PC)Installer](https://intsso.rigol.com/En/Index/listView/catid/28/tp/5/p/2.html)，或从[网盘](https://pan.baidu.com/s/1ERE6q-mvIvuUgSQR2smAQw?pwd=4202)下载；
+* (**前置条件**) 首先安装驱动，可从官网下载[Ultra Sigma (PC)Installer](https://intsso.rigol.com/En/Index/listView/catid/28/tp/5/wd/Ultra%20Sigma%20(PC)Installer)，或从[网盘](https://pan.baidu.com/s/1ERE6q-mvIvuUgSQR2smAQw?pwd=4202)下载；
 
 * (方式1，win7~win11)
 
