@@ -53,10 +53,11 @@ def tranfer_wave_cmd(total_time: float, data: np.ndarray, ch=1):
     
     freq = 1.0 / total_time
     amp = np.max(np.abs(data))
+    data = np.clip(data/amp, -1, 1)
     offset = phase = 0
 
     messages = (
-        apply_user_cmd(freq, amp, offset, phase, ch),
+        apply_user_cmd(freq, amp*2, offset, phase, ch),
         transfer_float_data_cmd(data)
     )
 
